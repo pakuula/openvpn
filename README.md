@@ -130,7 +130,7 @@ verb 3
 ;mute 20
 ```
 
-Script `make_vpn_client.sh`:
+Script [`make_vpn_client.sh`](make_vpn_client.sh):
 
 ```bash
 #!/bin/bash
